@@ -1,0 +1,15 @@
+{
+  "name": "zinin",
+  "owner": {
+    "name": "Alexander V. Zinin",
+    "url": "https://github.com/zinin"
+  },
+  "description": "Plugins for Claude Code by zinin",
+  "plugins": [
+    {
+      "name": "claude-mesh",
+      "source": { "source": "github", "repo": "zinin/claude-mesh" },
+      "description": "Multi-model code review, alt-Claude execution, session helpers"
+    }
+  ]
+}
