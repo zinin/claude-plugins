@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "claude-mesh",
-      "source": { "source": "github", "repo": "zinin/claude-mesh" },
+      "source": { "source": "url", "url": "https://github.com/zinin/claude-mesh.git" },
       "description": "Multi-model code review, alt-Claude execution, session helpers"
     }
   ]
