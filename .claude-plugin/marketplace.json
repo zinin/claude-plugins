@@ -10,6 +10,16 @@
       "name": "claude-mesh",
       "source": { "source": "url", "url": "https://github.com/zinin/claude-mesh.git" },
       "description": "Multi-model code review, alt-Claude execution, session helpers"
+    },
+    {
+      "name": "claude-forge",
+      "source": { "source": "url", "url": "https://github.com/zinin/claude-forge.git" },
+      "description": "Build/test/lint delegation and JVM/Android dependency updates (Gradle plugins, Google Maven)"
+    },
+    {
+      "name": "claude-atlassian",
+      "source": { "source": "url", "url": "https://github.com/zinin/claude-atlassian.git" },
+      "description": "Jira ticket and Confluence page analysis via context-protecting subagents"
     }
   ]
 }
