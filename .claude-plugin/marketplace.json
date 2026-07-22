@@ -19,7 +19,7 @@
     {
       "name": "claude-atlassian",
       "source": { "source": "url", "url": "https://github.com/zinin/claude-atlassian.git" },
-      "description": "Jira ticket and Confluence page analysis via context-protecting subagents"
+      "description": "Jira ticket analysis, Confluence page reading, and cross-repository bug investigation via context-protecting subagents"
     }
   ]
 }
