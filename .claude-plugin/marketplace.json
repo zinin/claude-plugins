@@ -20,6 +20,11 @@
       "name": "claude-atlassian",
       "source": { "source": "url", "url": "https://github.com/zinin/claude-atlassian.git" },
       "description": "Jira ticket analysis, Confluence page reading, and cross-repository bug investigation via context-protecting subagents"
+    },
+    {
+      "name": "claude-prd",
+      "source": { "source": "url", "url": "https://github.com/zinin/claude-prd.git" },
+      "description": "Idea to PRD to tasks: collaborative PRD authoring plus autonomous refinement of PRD and tasks.json"
     }
   ]
 }
