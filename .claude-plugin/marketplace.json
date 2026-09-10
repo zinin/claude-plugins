@@ -25,6 +25,11 @@
       "name": "claude-prd",
       "source": { "source": "url", "url": "https://github.com/zinin/claude-prd.git" },
       "description": "Idea to PRD to tasks: collaborative PRD authoring plus autonomous refinement of PRD and tasks.json"
+    },
+    {
+      "name": "herdr-review",
+      "source": { "source": "url", "url": "https://github.com/zinin/herdr-review.git" },
+      "description": "Multi-agent code review inside herdr: reviewers, an orchestrator and a fixer as visible, interactive agents in their own tabs"
     }
   ]
 }
