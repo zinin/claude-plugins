@@ -30,6 +30,11 @@
       "name": "herdr-review",
       "source": { "source": "url", "url": "https://github.com/zinin/herdr-review.git" },
       "description": "Multi-agent code review inside herdr: reviewers, an orchestrator and a fixer as visible, interactive agents in their own tabs"
+    },
+    {
+      "name": "codex-base-review",
+      "source": { "source": "url", "url": "https://github.com/zinin/codex-base-review.git" },
+      "description": "Codex-style PR review against the branch this one was cut from"
     }
   ]
 }

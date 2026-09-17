@@ -17,3 +17,4 @@ Claude Code plugin marketplace by [zinin](https://github.com/zinin).
 | [claude-atlassian](https://github.com/zinin/claude-atlassian) | Jira ticket analysis, Confluence page reading, and cross-repository investigation of bugs and of new work via context-protecting subagents |
 | [claude-prd](https://github.com/zinin/claude-prd) | Idea to PRD to tasks: collaborative PRD authoring plus autonomous refinement of PRD and tasks.json |
 | [herdr-review](https://github.com/zinin/herdr-review) | Multi-agent code review inside herdr: reviewers, an orchestrator and a fixer as visible, interactive agents in their own tabs |
+| [codex-base-review](https://github.com/zinin/codex-base-review) | Codex-style PR review against the branch this one was cut from |
